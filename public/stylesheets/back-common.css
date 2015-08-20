@@ -1,0 +1,44 @@
+@charset "utf-8";
+* {font-family: Microsoft YaHei, Verdana, Arial, sans-serif; font-size: 12px;}
+
+.form-label{
+   padding: 12px 12px;
+   font-size: 12px;
+   font-weight: normal;
+   line-height: 1;
+   color: #555;
+   text-align: center;
+}
+.form-control[disabled],
+.form-control[readonly],
+fieldset[disabled] .form-control {
+   background-color:#fff;
+   cursor: not-allowed;
+   opacity: 1;
+}
+
+.back-error{
+   font-size:12px;
+   color:red;
+}
+
+.backgrid tbody tr{
+    border-left:1px #E5E5E5 solid;
+    border-right:1px #E5E5E5 solid;
+}
+.backgrid thead tr{
+    border-top:1px #E5E5E5 solid;
+    border-left:1px #E5E5E5 solid;
+    border-right:1px #E5E5E5 solid;
+
+}
+.backgrid tbody tr:hover {
+    background-color:#DFDFDF;
+    color: #000;
+    cursor:hand;
+}
+.backgrid-tr-active {
+    background-color:#E9EFF5;
+    color: #000;
+    cursor:hand;
+}

@@ -1,0 +1,105 @@
+.error .input-group-addon{
+ background-color: #D9534F;
+}
+.item-line.error input,.item-line.error span,.item-line.error input:focus,.item-line.error input:hover,
+.item-line.error textarea,.item-line.error textarea:focus,.item-line.error textarea:hover{
+ border: 1px solid #ff0000;
+}
+.valid-from .tooltip.top .tooltip-arrow {
+ border-top-color: #D2322D;
+}
+.valid-from .tooltip-inner {
+ background-color:  #D2322D; 
+}
+.labelWidth120{
+  width: 120px;
+}
+.labelWidth120 input,.labelWidth120 span{
+  display: inline-block;
+  float: left;
+} 
+.labelWidth120 span{
+   margin-top: 12px;
+}
+.form-line > input[type="radio"]{
+   width: 20px;
+   margin-left: 130px;
+}
+.form-line > .radio-span,.form-line > input[type="radio"]{
+   float: left;
+}
+.form-line > .radio-span{
+   margin:10px 5px 0 0;
+}
+.label-line{
+   width: 130px;
+   text-align: right;
+   font-weight: bold;
+   color:  #778693;
+   vertical-align: top;
+}
+.ui-widget-overlay{
+   margin-left: -200px;
+}
+.menu-swap .sidr{
+  z-index: 999;
+}
+body .ui-dialog{
+  position: fixed;
+}
+body > .ui-widget-content{
+  background: none repeat scroll 0 0 rgba(255, 255, 255, 1);
+}
+/*********************************************/
+.gird-title{
+  font-size: 20px;
+  font-weight: bold;
+}
+.gird-title-swap{
+  width: 100%;
+  padding: 10px 0px 10px;
+  border-bottom: 1px solid #cccccc;
+  margin:5px 0;
+}
+.grid-pagination{
+  width: 100%;
+  height: 40px;
+}
+.gird-tools{
+  width: 100%;
+  padding: 10px 0px 10px;
+}
+.grid-btns a{
+  margin: 2px 3px;
+ }
+.btn,.btn:hover,.btn:active,.btn:visited{
+  outline: none; 
+}
+/************************************************/
+.labels-right{
+ 	 	width: 100px;
+ 	 	text-align: right;
+ 	 	float: left;
+ 	 }
+ 	 .input-group{
+ 	 	margin: 2px 3px;
+ 	 }
+ 	 .input-group .input-group-addon{
+ 	 	padding: 9px 12px;
+ 	 }
+ 	 .input-group .form-control.width90{
+ 	 	width: 90px; 
+ 	 }
+ 	 .input-group .form-control.width140{
+ 	 	width: 140px; 
+ 	 }
+ 	 .input-group .form-control.width280{
+ 	 	width: 280px; 
+ 	 }
+ 	 .swap-labels .input-group-addon{
+ 	 	float: none;
+ 	 }
+ 	 .form-center{
+ 	 	width: 100%;
+ 	 	padding: 10px;
+ 	 }
