@@ -1,5 +1,5 @@
 /**
- * Created by Administrator on 2014/11/17.
+ * MAZH Created by Administrator on 2014/11/17.
  */
 define(function(){
     var app = new Marionette.Application();
